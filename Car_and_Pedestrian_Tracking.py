@@ -9,7 +9,7 @@ from cv2 import cv2
 
 img_file = 'Car_Photo.jpg'
 
-video = cv2.VideoCapture('video2.mp4')
+video = cv2.VideoCapture('video3.mp4')
 
 car_tracker_file = 'cars.xml'
 pedestrian_tracker_file = 'haarcascade_fullbody.xml'
