@@ -19,3 +19,10 @@ It’s all about matching the feature or shape. If something matches with the ab
 
 
 FILES :
+1. Car_and_Pedestrian_Tracking.py: It contains the acual python code that needs to run for seeing the output. This is the file that the user mudt execute to track the cars and pedestrians.
+
+2. cars.xml: Contains Haar features of the the car needed to train the model.
+3. haarcascade_fullbody.xml: Contains Haar features of a person to train the model.
+
+
+Herewith the hardware design and the software flowchart is also attached for reference.
