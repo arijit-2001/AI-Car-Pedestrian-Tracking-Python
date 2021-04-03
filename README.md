@@ -10,7 +10,7 @@ Description : One of the most remarkable applications of Machine Learning in tod
 
 
 SOLUTION:
-We use ML to differentiate between pedestrians and cars so that the self driving vehicle can understand its surrounding and learn to differentiate between the two moving objects i.e, cars and pedestrians to avoid any probability of pedestrian accidents which is a major fear of most critics.
+We use Object Detection Algorithm in Machine Learning to differentiate between pedestrians and cars so that the self driving vehicle can understand its surrounding and learn to differentiate between the two moving objects i.e, cars and pedestrians to avoid any probability of pedestrian accidents which is a major fear of most critics.
 
 Step 1: We get A lot of Car Images,  
 Step2: Make All the images Black and White cause Grayscale images make the algorithm faster. Colour increases the complexity of the model or we can say grey-coloured images are used to simplify the mathematics. For example, one can talk about brightness, contrast, edges, shape, contours, texture, perspective, shadows, and so on, without addressing colour.
@@ -19,8 +19,7 @@ It’s all about matching the feature or shape. If something matches with the ab
 
 
 FILES :
-1. Car_and_Pedestrian_Tracking.py: It contains the acual python code that needs to run for seeing the output. This is the file that the user mudt execute to track the cars and pedestrians.
-
+1. Car_and_Pedestrian_Tracking.py: It contains the acual python code that needs to run for seeing the output. This is the file that the user must execute to track the cars and pedestrians.
 2. cars.xml: Contains Haar features of the the car needed to train the model.
 3. haarcascade_fullbody.xml: Contains Haar features of a person to train the model.
 4. software_design_flowchart.jpg: flowchart of the algorithm.
