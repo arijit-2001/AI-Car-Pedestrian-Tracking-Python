@@ -24,6 +24,7 @@ FILES :
 2. cars.xml: Contains Haar features of the the car needed to train the model.
 3. haarcascade_fullbody.xml: Contains Haar features of a person to train the model.
 4. software_design_flowchart.jpg: flowchart of the algorithm.
+5. HARDWARE HACKATHON DIAGRAM.PNG: contains the hardware design of this hardware hackathon.
 
-Herewith the hardware design and the software flowchart is also attached for reference.
+Herewith, the hardware design and the software flowchart is also attached for reference. Both are created by Team Xplore.
 
