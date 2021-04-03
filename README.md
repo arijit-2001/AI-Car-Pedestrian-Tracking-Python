@@ -27,6 +27,6 @@ FILES :
 
 Herewith, the hardware design and the software flowchart is also attached for reference. Both are created by Team Xplore.
 
-THE VIDEOS THAT WE USED FOR OUR DEMO CAN BE DOWNLOADED FROM HERE:-
+THE VIDEOS THAT WE USED FOR TESTING CAN BE DOWNLOADED FROM HERE:-
 https://drive.google.com/file/d/1jsRJr8G8ght5XKgghX72Cz6FYaGq-2W-/view?usp=sharing
 https://drive.google.com/file/d/1MsYRbmYyYVeFKdRijG3tt_Dy02eMn-Hf/view?usp=sharing
